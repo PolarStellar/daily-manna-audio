@@ -1,0 +1,4 @@
+# Narrated Daily Manna articles. Public so the reader can stream them from any
+# phone, but not meant to be found by search.
+User-agent: *
+Disallow: /
